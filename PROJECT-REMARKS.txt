@@ -1,0 +1,23 @@
+Submission Remarks
+
+Project: Employee Payroll Management System
+
+I developed a menu-driven Employee Payroll Management System using Core Java and Object-Oriented Programming principles.
+
+The project implements:
+- Employee record management
+- Salary calculation
+- Progressive tax calculation
+- Provident Fund deduction
+- Additional deductions
+- Net salary calculation
+- Salary slip generation
+- Employee search and removal
+- Payroll summary
+- Input and business-rule validation
+
+The implementation follows separation of responsibilities instead of placing all logic inside the Main class. This improves readability, maintainability and future extensibility.
+
+Technology: Java 17+, OOP, Collections Framework, Stream API, Exception Handling, Scanner.
+
+Note: Tax and PF percentages are educational rules created for this assignment and are not intended to represent a current statutory payroll calculation.
